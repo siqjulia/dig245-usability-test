@@ -37,17 +37,14 @@
 }
 
 
-.first{ 
-    padding-top: 10%;
-    margin: auto; 
+.mains { 
+    padding-top: 5%;
 }
 
-h2, h3 { 
+h2, h4 { 
     font-family: "Maname", serif; 
 }
 
-p{ 
-}
 
 .second{ 
     background-color: #E7E0D7;
