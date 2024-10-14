@@ -45,6 +45,9 @@ h2, h4 {
     font-family: "Maname", serif; 
 }
 
+p {
+    font-family: "Montserrat", sans-serif;
+}
 
 .second{ 
     background-color: #E7E0D7;
@@ -60,4 +63,20 @@ h2, h4 {
 .center-img{ 
     display: block; 
     margin: 0 auto; 
+}
+
+.bottoms { 
+    padding-top: 4%; 
+}
+
+.background{ 
+    background-color: #AE4F4A;
+    position: absolute; 
+    left: 150px; 
+    width: 500px;
+    height: 300px;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    padding: 5%;
 }
