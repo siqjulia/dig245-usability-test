@@ -25,7 +25,6 @@
 .logo img { 
     padding-top: 50px; 
     margin-bottom: 1%;
-   
 }
 
 .context p{ 
@@ -35,5 +34,33 @@
     font-family: "Montserrat", sans-serif; 
     max-width: 600px;
     margin: auto; 
+}
 
+
+.first{ 
+    padding-top: 10%;
+    margin: auto; 
+}
+
+h2, h3 { 
+    font-family: "Maname", serif; 
+}
+
+p{ 
+}
+
+.second{ 
+    background-color: #E7E0D7;
+    margin: 20px 0; 
+    padding: 20px; 
+    border-radius: 8px; 
+}
+
+.text-justify{ 
+    text-align: justify; 
+}
+
+.center-img{ 
+    display: block; 
+    margin: 0 auto; 
 }
