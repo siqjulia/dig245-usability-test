@@ -69,14 +69,17 @@ p {
     padding-top: 4%; 
 }
 
-.background{ 
-    background-color: #AE4F4A;
-    position: absolute; 
-    left: 150px; 
-    width: 500px;
-    height: 300px;
-    display: flex; 
-    justify-content: center;
-    align-items: center; 
-    padding: 5%;
+.tests h2{ 
+    font-family: "Maname", serif;
+    padding-bottom: 3%; 
+
+}
+
+.tests{ 
+    
+}
+
+.calculate { 
+    border: 2px solid #AE4F4A; 
+    margin-top: 3%;
 }
