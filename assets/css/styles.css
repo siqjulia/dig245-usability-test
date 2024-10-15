@@ -27,14 +27,6 @@
     margin-bottom: 1%;
 }
 
-.context p{ 
-    background-color: black;
-    color: white; 
-    text-align: center;
-    font-family: "Montserrat", sans-serif; 
-    max-width: 600px;
-    margin: auto; 
-}
 
 
 .mains { 
@@ -76,9 +68,6 @@ p {
 
 }
 
-.tests{ 
-    
-}
 
 .calculate { 
     border: 2px solid #AE4F4A; 
